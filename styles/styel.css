@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cube{
+    border: 1px solid #F8C11D;
+    width: 250px;
+    height: 250px;
+    text-align: left;
+    margin: 300px auto;
+}
+
+.css{
+    color: white;
+    font-size: 70px;
+}
